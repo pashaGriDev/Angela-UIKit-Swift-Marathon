@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185522909055-hjic9imbubbtkj0kv7i6185tk795inag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185522909055-hjic9imbubbtkj0kv7i6185tk795inag</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCd7MEQjK-GulMQtoODAeiaUG9NP_sOpx0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185522909055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.babaika.FlashChat-IOS13-Angela</string>
+	<key>PROJECT_ID</key>
+	<string>flashchat-angela-ios13</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashchat-angela-ios13.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185522909055:ios:2c8e0717c53b650f3e744a</string>
+</dict>
+</plist>
